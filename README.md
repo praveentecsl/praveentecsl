@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there I'm Praveen ! 👋
 
-<!--
-**praveentecsl/praveentecsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **Computer Engineering Undergraduate** with a passion for exploring and innovating with the latest technologies. I enjoy solving problems, building applications, and continuously learning new things.
 
-Here are some ideas to get you started:
+## Skills
+- 💻 Programming: **C, C++, C#, JavaScript**
+- 🌐 Web Development: **HTML, CSS**
+- 🔍 Always eager to explore new technologies and frameworks!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Software Development
+- Open-Source Contributions
+
+## Connect with Me
+- 📫 Feel free to reach out via GitHub!
+
+🚀 Always striving to innovate and create something amazing!
